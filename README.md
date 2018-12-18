@@ -10,6 +10,11 @@
 * Create-react-app (installed using ```npm install create-react-app -g```)
 * JavaSript IDE
 
+### 2. Use the files I've pre-made with comments
+* Once you have cloned the repo down, install all of the dependencies using ```npm install`` inside the exmaple folder
+
+### **OR**
+
 ### 2. To create a basic React app
 * ```create-react-app app-name```
 * ```cd app-name```, to navigate into the directory
