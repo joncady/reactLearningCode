@@ -11,7 +11,7 @@
 * JavaSript IDE
 
 ### 2. Use the files I've pre-made with comments
-* Once you have cloned the repo down, install all of the dependencies using ```npm install``` inside the exmaple folder
+* Once you have cloned the repo down, install all of the dependencies using ```npm install``` inside the example folder
 
 ### **OR**
 
